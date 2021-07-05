@@ -1,0 +1,16 @@
+{
+  "id": "2641725",
+  "name": "0629当天练习",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "881745",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e6e3",
+      "unicode_decimal": 59107
+    }
+  ]
+}

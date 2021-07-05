@@ -1,0 +1,65 @@
+{
+  "id": "2641725",
+  "name": "0629当天练习",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "113543",
+      "name": "下载",
+      "font_class": "download",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "1991040",
+      "name": "网络",
+      "font_class": "network",
+      "unicode": "e6ca",
+      "unicode_decimal": 59082
+    },
+    {
+      "icon_id": "2011603",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "3670113",
+      "name": "我的",
+      "font_class": "tubiaolunkuo-",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "9188423",
+      "name": "社区-未激活",
+      "font_class": "shequ-weijihuo",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "19494217",
+      "name": "电 话",
+      "font_class": "dianhua",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "21204649",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "881745",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e6e3",
+      "unicode_decimal": 59107
+    }
+  ]
+}
